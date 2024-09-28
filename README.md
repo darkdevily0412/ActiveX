@@ -69,7 +69,8 @@ Access the dashboard through your web browser at [http://localhost:8501](http://
 ## 🎥 Demonstration Vedio
 
 
-https://github.com/user-attachments/assets/8bc37569-7c65-4326-ac51-c1b2af416afe
+https://github.com/user-attachments/assets/bd4880ec-a7b0-476d-ad19-3503fdc5f499
+
 
 
 ## 📊 Market Analysis
